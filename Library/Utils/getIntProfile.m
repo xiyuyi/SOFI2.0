@@ -1,4 +1,11 @@
 function [IntSeries,para]=getIntProfile(Ton, Toff, tExpo, Nframe)
+% This code is distributed under MIT license, please refer to the LICENSE file in the package for details.
+%
+%   Copyright (c) 2018 Xiyu Yi
+%
+%   Author of the code: Xiyu Yi
+%   Email of the author: xiyu.yi@gmail.com
+%
 %randomly choose the initlia phase to be either on or off.
 tag=rand(1);L=length(Ton);
 if tag>0.5

@@ -1,5 +1,10 @@
 function output=binCols(p,ind)
-% Author: Xiyu
+% This code is distributed under MIT license, please refer to the LICENSE file in the package for details.
+%
+%   Copyright (c) 2018 Xiyu Yi
+%
+%   Author of the code: Xiyu Yi
+%   Email of the author: xiyu.yi@gmail.com
  [x,y]=size(p);
  a1 = reshape(p, x, ind, y/ind);
  a2 = sum(a1,2);

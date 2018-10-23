@@ -1,3 +1,10 @@
+% This code is distributed under MIT license, please refer to the LICENSE file in the package for details.
+%
+%   Copyright (c) 2018 Xiyu Yi
+%
+%   Author of the code: Xiyu Yi
+%   Email of the author: xiyu.yi@gmail.com
+
 function [M2, M3, M4, M5, M6, M7] = xy_getSOFI_MomentsReconstruction(inputPath,outputPath,ImMeanLocFori,LibPath);
 addpath(LibPath)
 for ord = 2:7

@@ -1,3 +1,10 @@
+% This code is distributed under MIT license, please refer to the LICENSE file in the package for details.
+%
+%   Copyright (c) 2018 Xiyu Yi
+%
+%   Author of the code: Xiyu Yi
+%   Email of the author: xiyu.yi@gmail.com
+
 function output = xy_QuickLDRC(im, Mask, w)
 % im : image input
 % mask: the reference mask of brightness (choose either AC2 or Mean)

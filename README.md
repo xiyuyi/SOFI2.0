@@ -10,7 +10,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The asociated publication (listed bellow) being properly cited and credited.
 
-X. Yi, S. Son, S. Weiss, "Moments reconstruction and local dynamic range compression of high order Super-resolution of Optical Fluctuation Imaging", to be submitted.
+X. Yi, S. Son, S. Weiss, "Moments reconstruction and local dynamic range compression of high order Super-resolution of Optical Fluctuation Imaging", submitted.
 
 Author information (name, email address) shall remain the same in the assocaited script files when used in other packages.
 

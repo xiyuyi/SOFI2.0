@@ -1,9 +1,9 @@
 % this script demonstrate iterative deconvolution method with shrinking
 % kernal.
 % Author: Xiyu Yi @ UCLA
-% Email: chinahelenyxy@gmail.com
+% Email: xiyu.yi@gmail.com
 %
-% all rights resrved.
+% 
 %
 %
 function output = xy_DeconvSK(para)

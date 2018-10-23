@@ -1,4 +1,11 @@
 function [TSon, TSoff]=getPowerLaw(Nframe, mon, moff, Tc, Tcutoff, tExpo, truncateOption, CutOff)
+% This code is distributed under MIT license, please refer to the LICENSE file in the package for details.
+%
+%   Copyright (c) 2018 Xiyu Yi
+%
+%   Author of the code: Xiyu Yi
+%   Email of the author: xiyu.yi@gmail.com
+%
 % first generate the series;
 flag = 'keepGoing';
    N = floor(tExpo*Nframe/Tc);

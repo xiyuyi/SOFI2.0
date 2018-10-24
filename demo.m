@@ -1,11 +1,11 @@
 % This is a demonstration code to produce a super-resolution movie
 % associated with the following publication:
-%       X. Yi, S. Son, S. Weiss, 
+%
+%       X. Yi, S. Son, R. Ando, A. Miyawaki, S. Weiss, 
 %       "Moments reconstruction and local dynamic range compression of high 
 %       order Super-resolution of Optical Fluctuation Imaging", 
-%       to be submitted.
+%       submitted.
 %
-
 
 clear all
 addpath(genpath(['./Library']))

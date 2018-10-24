@@ -14,9 +14,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 * The asociated publication (listed bellow) being properly cited and credited.
 
-* Xiyu Yi, Sungho Son, Ryoko Ando, Atsushi Miyawaki and Shimon Weiss, "Moments reconstruction and local dynamic range compression of high order Super-resolution of Optical Fluctuation Imaging", submitted.
+   Xiyu Yi, Sungho Son, Ryoko Ando, Atsushi Miyawaki and Shimon Weiss, "Moments reconstruction and local dynamic range compression of high order Super-resolution of Optical Fluctuation Imaging", submitted.
 
-Author information (name, email address) shall remain the same in the assocaited script files when used in other packages.
+* Author information (name, email address) shall remain the same in the assocaited script files when used in other packages.
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 

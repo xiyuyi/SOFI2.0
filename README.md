@@ -12,9 +12,9 @@ Email of the author: xiyu.yi@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The asociated publication (listed bellow) being properly cited and credited.
+* The asociated publication (listed bellow) being properly cited and credited.
 
-Xiyu Yi, Sungho Son, Ryoko Ando, Atsushi Miyawaki and Shimon Weiss, "Moments reconstruction and local dynamic range compression of high order Super-resolution of Optical Fluctuation Imaging", submitted.
+* Xiyu Yi, Sungho Son, Ryoko Ando, Atsushi Miyawaki and Shimon Weiss, "Moments reconstruction and local dynamic range compression of high order Super-resolution of Optical Fluctuation Imaging", submitted.
 
 Author information (name, email address) shall remain the same in the assocaited script files when used in other packages.
 
